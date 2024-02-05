@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sope-mosuro
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning Javascript and python 
+- 🌱 I’m currently learning blockchain development with hardhat
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me Twitter:mosope_mosuro
 
