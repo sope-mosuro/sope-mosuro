@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sope-mosuro
-- 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning blockchain development with hardhat
+- 👀 I’m passionate about bulding amazing projects
+- I mostly work with the mern stack at the moment but i'm open to learning and working with different technologies!
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me Twitter:mosope_mosuro
 
